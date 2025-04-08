@@ -27,7 +27,7 @@ class RandomStringRepository(private val context: Context) {
             val cursor = context.contentResolver.query(
                 uriWithParams,
                 null,
-                null,
+                bundle,
                 null
             )
 
