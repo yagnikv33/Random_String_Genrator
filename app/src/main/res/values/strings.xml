@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tata Code Challenge</string>
+    <string name="generate_random_string">Generate Random String</string>
+    <string name="delete_all">Delete All</string>
+    <string name="enter_string_length">Enter string length</string>
+    <string name="b1">{</string>
+    <string name="randomtext">\"randomText\" :</string>
+    <string name="value">Value:</string>
+    <string name="length">Length:</string>
+    <string name="created">\"Created:</string>
+    <string name="b2">}</string>
+    <string name="b3">}</string>
+    <string name="delete">Delete</string>
+    <string name="str_validation">Please enter a valid length</string>
+</resources>
